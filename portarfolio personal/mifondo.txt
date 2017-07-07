@@ -1,0 +1,23 @@
+<!Doctype html>
+<html>
+	<head>
+	<body background="degradado.jpg">
+		<title></title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="style.css">
+	</head>
+	<body>
+		<div class=" container lisett">
+			<div class="row">
+				<br>
+				<div class="col-md-6 ">
+					<img src="capt.png" align="left" width=250 height=150>
+				</div>
+				<br>
+				<div 
+				<div class="col-md-1 boton3"><a href="#38382E"><p class="a">HOME</p></a></div>
+				<div class="col-md-1 boton3"><a href="#38382E"><p class="a">ABOUT</p></a></div>
+				<div class="col-md-1 boton3"><a href="#38382E"><p class="a">PORTFOLIO</p></a></div>
+				<div class="col-md-1 boton4"><a href="#38382E"><p class="a">CONTACT</p></a></div>
+				<div class="col-md-1 boton4"><a href="#38382E"><p class="a">GALLERY</p></a></div>
+			</div>

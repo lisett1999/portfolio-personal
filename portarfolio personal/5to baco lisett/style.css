@@ -1,0 +1,92 @@
+.lisett{
+	background-color: #38382E;
+}
+.p {
+	color:white;
+	font-family: sans-serif;
+	text-align: center;
+}
+.fondo1 {
+	background-color: 	#86509C
+}
+p {
+	color:white;
+	font-family: sans-serif;
+	text-align: center;
+}
+.container{
+	width: 100% !important;
+
+}
+.letras{
+	font-weight: bolder;
+	color:white;
+	margin-top: 100px;
+	font-size:30px;
+}
+.vocal{
+	background-color: 	#DF8776;
+    margin-top:10px;
+    font-size: 15px;
+    width:250px;
+    height: 50px;
+}
+.fondo2{
+	background-color: #17C1A6;
+	color: white;
+	font-size: 30px;
+
+}
+.fondo{
+	color: white;
+	margin-top: 2px;
+
+}
+.loki{
+	font-size: 17px;
+}
+.lokt{
+	font-size: 17px;
+}.lisett{
+	background-color: #E9F1FB;
+	color:black;
+	font-weight: bolder;
+	font-size: 35px;
+}
+.los{
+	color: black;
+	font-size: 17px;
+}
+.io{
+	color:black;
+	font-size: 12px;
+}
+.li{
+	color:blue;
+	font-size: 15px;
+}
+.to{
+	color:black;
+	font-size: 12px;
+}
+.ti{
+	color:blue;
+	font-size: 15px;
+}
+.tu{
+	color: black;
+	font-size: 12px;
+}
+.te{
+	color:blue;
+	font-size: 15px;
+}
+.ts{
+	color: black;
+	font-size: 12px;
+}
+.tl{
+	color:blue;
+	font-size: 15px; 
+}
+
